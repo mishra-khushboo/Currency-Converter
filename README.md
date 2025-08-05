@@ -23,7 +23,7 @@ A simple and modern currency converter web app that allows users to convert betw
 
 ## 🌐 Live Demo
 
-[🔗 View Live](<img width="950" height="788" alt="Screenshot 2025-08-05 105118" src="https://github.com/user-attachments/assets/c54ad518-993e-482b-b72b-2298a0142282" />)
+[🔗 View Live](https://mishra-khushboo.github.io/Currency-Converter/)
   
 
 ---
